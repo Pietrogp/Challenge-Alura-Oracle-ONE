@@ -13,4 +13,5 @@ Deve ser possível converter uma palavra para a versão criptografada e também 
 Por exemplo: "gato" => "gaitober" gaitober" => "gato"
 
 Obrigado 
+
 #challengeonedecodificador2
