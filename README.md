@@ -21,7 +21,7 @@ Obrigado   <img width="180px" src="https://cursos.alura.com.br/assets/images/cer
  </div>
 
    <div style="display:flex;" align="center">
-  <img src="badge.png" width="400"/>
+  <img src="[badge.png](https://github.com/Pietrogp/Challenge-Alura-Oracle-ONE/blob/main/badge.png)" width="400"/>
 </div>
 
 #challengeonedecodificador2
